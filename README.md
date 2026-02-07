@@ -1,0 +1,2 @@
+`do_not_set_NL80211_WPA_VERSION_3.patch` > `external/wpa_supplicant_8`
+`01-aperture-mtk-hfps-mode.patch` > `packages/apps/Aperture`
